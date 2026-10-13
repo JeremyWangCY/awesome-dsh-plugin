@@ -1,0 +1,6 @@
+url: https://github.com/JeremyWangCY/dsh-rea
+name: JeremyWangCY/dsh-rea
+category: dev
+description:
+  en: 'Full upstream REA 6.4.0 integration through the official DSH MCP bridge: all 170 tools, the original version-matched reverse-engineering skill and complete structured Evidence. Supports DSH native/PTC presentation without curated tool filtering. External analysis engines remain bring-your-own.'
+  zh: '通过 DSH 官方 MCP 桥接接入原版 REA 6.4.0：完整 170 个工具、同版本原版逆向 Skill 及完整结构化 Evidence，不删减工具，兼容 DSH native/PTC 呈现。外部分析引擎需自行配置。'
